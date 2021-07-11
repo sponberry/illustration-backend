@@ -1,0 +1,6 @@
+PUT http://localhost:3003/api/images/60eae21f3e968d09e67a5d78
+Content-Type: application/json
+
+{
+  "stock": "https://www.shutterstock.com/image-illustration/happy-peaceful-yoga-tree-pose-cheerful-1984706159"
+}

@@ -1,0 +1,9 @@
+POST http://localhost:3003/api/images
+Content-Type: application/json
+
+{
+  "url": "../img/Pyramid_Pose.jpg",
+  "altText": "A yogi reaches down in pyramid pose, her legs illustrated in the angular style of a pyramid",
+  "redBubble": "https://www.redbubble.com/i/art-print/Yoga-Calm-Pyramid-Pose-by-sponberry/79474718.1G4ZT",
+  "stock": "https://www.shutterstock.com/image-illustration/woman-pyramid-yoga-pose-drawing-doing-1743200954"
+}
